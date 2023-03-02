@@ -1,0 +1,17 @@
+{
+    "posts":[
+       
+    ],
+    "comments":[
+        {
+            "id":1,
+            "body":"some body",
+            "postId":1
+        }
+    ],
+    "profile":[
+        {
+            "name":"typeicode"
+        }
+    ]
+}
